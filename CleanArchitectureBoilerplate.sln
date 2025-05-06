@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitectureBoilerplat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitectureBoilerplate.Tests", "CleanArchitectureBoilerplate.Tests\CleanArchitectureBoilerplate.Tests.csproj", "{BD79CE3E-7147-43D2-B642-4F5863BE5606}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitectureBoilerplate.SharedKernel", "CleanArchitectureBoilerplate.SharedKernel\CleanArchitectureBoilerplate.SharedKernel.csproj", "{E944FFDC-CC7A-4EB8-8D2C-496FF619BECA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{BD79CE3E-7147-43D2-B642-4F5863BE5606}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD79CE3E-7147-43D2-B642-4F5863BE5606}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD79CE3E-7147-43D2-B642-4F5863BE5606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E944FFDC-CC7A-4EB8-8D2C-496FF619BECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E944FFDC-CC7A-4EB8-8D2C-496FF619BECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E944FFDC-CC7A-4EB8-8D2C-496FF619BECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E944FFDC-CC7A-4EB8-8D2C-496FF619BECA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
